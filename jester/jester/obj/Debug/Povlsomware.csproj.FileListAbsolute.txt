@@ -1,0 +1,10 @@
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Povlsomware-master\Povlsomware-master\Povlsomware\bin\Debug\Povlsomware.exe.config
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Povlsomware-master\Povlsomware-master\Povlsomware\bin\Debug\Povlsomware.exe
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Povlsomware-master\Povlsomware-master\Povlsomware\bin\Debug\Povlsomware.pdb
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Povlsomware-master\Povlsomware-master\Povlsomware\obj\Debug\Povlsomware.csprojAssemblyReference.cache
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Povlsomware-master\Povlsomware-master\Povlsomware\obj\Debug\Povlsomware.PayM3.resources
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Povlsomware-master\Povlsomware-master\Povlsomware\obj\Debug\Povlsomware.Properties.Resources.resources
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Povlsomware-master\Povlsomware-master\Povlsomware\obj\Debug\Povlsomware.csproj.GenerateResource.cache
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Povlsomware-master\Povlsomware-master\Povlsomware\obj\Debug\Povlsomware.csproj.CoreCompileInputs.cache
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Povlsomware-master\Povlsomware-master\Povlsomware\obj\Debug\Povlsomware.exe
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Povlsomware-master\Povlsomware-master\Povlsomware\obj\Debug\Povlsomware.pdb

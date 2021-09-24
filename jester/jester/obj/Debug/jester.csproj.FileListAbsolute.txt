@@ -1,0 +1,58 @@
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\Povlsomware\bin\Debug\jester.exe.config
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\Povlsomware\bin\Debug\jester.exe
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\Povlsomware\bin\Debug\jester.pdb
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\Povlsomware\obj\Debug\jester.Properties.Resources.resources
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\Povlsomware\obj\Debug\jester.csproj.GenerateResource.cache
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\Povlsomware\obj\Debug\jester.csproj.CoreCompileInputs.cache
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\Povlsomware\obj\Debug\jester.exe
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\Povlsomware\obj\Debug\jester.pdb
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\Povlsomware\obj\Debug\jester.csprojAssemblyReference.cache
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\Povlsomware\obj\Debug\jester.PayM3.resources
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\jester\bin\Debug\jester.exe.config
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\jester\bin\Debug\jester.exe
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\jester\bin\Debug\jester.pdb
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\jester\obj\Debug\jester.csprojAssemblyReference.cache
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\jester\obj\Debug\jester.PayM3.resources
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\jester\obj\Debug\jester.Properties.Resources.resources
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\jester\obj\Debug\jester.csproj.GenerateResource.cache
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\jester\obj\Debug\jester.csproj.CoreCompileInputs.cache
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\jester\obj\Debug\jester.exe
+C:\Users\jamag_000\Videos\Microsoft Visual Studio\Installer\Povlsomware-master\Povlsomware-master\Povlsomware-master\jester\obj\Debug\jester.pdb
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\bin\Debug\jester.exe.config
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\bin\Debug\jester.exe
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\bin\Debug\jester.pdb
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\obj\Debug\jester.csprojAssemblyReference.cache
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\obj\Debug\jester.PayM3.resources
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\obj\Debug\jester.Properties.Resources.resources
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\obj\Debug\jester.csproj.GenerateResource.cache
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\obj\Debug\jester.csproj.CoreCompileInputs.cache
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\obj\Debug\jester.exe
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\obj\Debug\jester.pdb
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\bin\Debug\jester.exe.config
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\bin\Debug\jester.exe
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\bin\Debug\jester.pdb
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\obj\Debug\jester.PayM3.resources
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\obj\Debug\jester.csproj.GenerateResource.cache
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\obj\Debug\jester.csproj.CoreCompileInputs.cache
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\malware\jester.exe.config
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\malware\jester.exe
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\malware\jester.pdb
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\obj\Debug\jester.Properties.Resources.resources
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\obj\Debug\jester.exe
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\obj\Debug\jester.pdb
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\obj\Debug\jester.csprojAssemblyReference.cache
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\obj\Debug\jester.NOTE.resources
+C:\Users\hunter dexter\Documents\proyecto de sharith ransomware\malware\jester.exe.config
+C:\Users\hunter dexter\Documents\proyecto de sharith ransomware\malware\jester.exe
+C:\Users\hunter dexter\Documents\proyecto de sharith ransomware\malware\jester.pdb
+C:\Users\hunter dexter\Documents\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\obj\Debug\jester.csproj.AssemblyReference.cache
+C:\Users\hunter dexter\Documents\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\obj\Debug\jester.PayM3.resources
+C:\Users\hunter dexter\Documents\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\obj\Debug\jester.NOTE.resources
+C:\Users\hunter dexter\Documents\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\obj\Debug\jester.Properties.Resources.resources
+C:\Users\hunter dexter\Documents\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\obj\Debug\jester.csproj.GenerateResource.cache
+C:\Users\hunter dexter\Documents\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\obj\Debug\jester.csproj.CoreCompileInputs.cache
+C:\Users\hunter dexter\Documents\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\obj\Debug\jester.exe
+C:\Users\hunter dexter\Documents\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\obj\Debug\jester.pdb
+C:\Users\hunter dexter\Documents\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\bin\Debug\jester.exe.config
+C:\Users\hunter dexter\Documents\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\bin\Debug\jester.exe
+C:\Users\hunter dexter\Documents\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master\jester\jester\bin\Debug\jester.pdb
