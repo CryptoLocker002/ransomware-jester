@@ -33,3 +33,6 @@ https://chat.whatsapp.com/FduNfEHQ0U3Kc3aME43wY3
 
  
 Jester cuenta con 3 archivos el descargador auto inicio y el ransomware jester
+DESCARGO DE RESPONSABILIDAD
+Esto es como el ransomware Jester, en la película Mr. Robot (codificada por hunter dexter), tenga cuidado este es un ransomware real. No utilice este malware en su computadora personal. Este proyecto es solo está basado en la serie de MR. robot 
+
