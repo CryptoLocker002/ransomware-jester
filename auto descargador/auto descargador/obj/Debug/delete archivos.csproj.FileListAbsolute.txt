@@ -1,0 +1,33 @@
+C:\Users\jamag_000\source\repos\delete archivos\delete archivos\bin\Debug\delete.exe.config
+C:\Users\jamag_000\source\repos\delete archivos\delete archivos\bin\Debug\delete.exe
+C:\Users\jamag_000\source\repos\delete archivos\delete archivos\bin\Debug\delete.pdb
+C:\Users\jamag_000\source\repos\delete archivos\delete archivos\obj\Debug\delete archivos.csprojAssemblyReference.cache
+C:\Users\jamag_000\source\repos\delete archivos\delete archivos\obj\Debug\delete_archivos.Form1.resources
+C:\Users\jamag_000\source\repos\delete archivos\delete archivos\obj\Debug\delete_archivos.Properties.Resources.resources
+C:\Users\jamag_000\source\repos\delete archivos\delete archivos\obj\Debug\delete archivos.csproj.GenerateResource.cache
+C:\Users\jamag_000\source\repos\delete archivos\delete archivos\obj\Debug\delete archivos.csproj.CoreCompileInputs.cache
+C:\Users\jamag_000\source\repos\delete archivos\delete archivos\obj\Debug\delete.exe
+C:\Users\jamag_000\source\repos\delete archivos\delete archivos\obj\Debug\delete.pdb
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\delete archivos - copia\delete archivos\bin\Debug\brower.exe.config
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\delete archivos - copia\delete archivos\bin\Debug\brower.exe
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\delete archivos - copia\delete archivos\bin\Debug\brower.pdb
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\delete archivos - copia\delete archivos\obj\Debug\delete archivos.csprojAssemblyReference.cache
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\delete archivos - copia\delete archivos\obj\Debug\delete_archivos.Form1.resources
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\delete archivos - copia\delete archivos\obj\Debug\delete archivos.csproj.GenerateResource.cache
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\delete archivos - copia\delete archivos\obj\Debug\delete archivos.csproj.CoreCompileInputs.cache
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\malware\chomer.exe.config
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\malware\chomer.exe
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\malware\chomer.pdb
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\delete archivos - copia\delete archivos\obj\Debug\chomer.Properties.Resources.resources
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\delete archivos - copia\delete archivos\obj\Debug\chomer.exe
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\delete archivos - copia\delete archivos\obj\Debug\chomer.pdb
+C:\Users\hunter\Desktop\Todo\proyectos\Trabajos\proyecto de sharith ransomware\malware\chomer.exe.config
+C:\Users\hunter\Desktop\Todo\proyectos\Trabajos\proyecto de sharith ransomware\malware\chomer.exe
+C:\Users\hunter\Desktop\Todo\proyectos\Trabajos\proyecto de sharith ransomware\malware\chomer.pdb
+C:\Users\hunter\Desktop\Todo\proyectos\Trabajos\proyecto de sharith ransomware\delete archivos - copia\delete archivos\obj\Debug\delete archivos.csprojAssemblyReference.cache
+C:\Users\hunter\Desktop\Todo\proyectos\Trabajos\proyecto de sharith ransomware\delete archivos - copia\delete archivos\obj\Debug\delete_archivos.Form1.resources
+C:\Users\hunter\Desktop\Todo\proyectos\Trabajos\proyecto de sharith ransomware\delete archivos - copia\delete archivos\obj\Debug\chomer.Properties.Resources.resources
+C:\Users\hunter\Desktop\Todo\proyectos\Trabajos\proyecto de sharith ransomware\delete archivos - copia\delete archivos\obj\Debug\delete archivos.csproj.GenerateResource.cache
+C:\Users\hunter\Desktop\Todo\proyectos\Trabajos\proyecto de sharith ransomware\delete archivos - copia\delete archivos\obj\Debug\delete archivos.csproj.CoreCompileInputs.cache
+C:\Users\hunter\Desktop\Todo\proyectos\Trabajos\proyecto de sharith ransomware\delete archivos - copia\delete archivos\obj\Debug\chomer.exe
+C:\Users\hunter\Desktop\Todo\proyectos\Trabajos\proyecto de sharith ransomware\delete archivos - copia\delete archivos\obj\Debug\chomer.pdb
