@@ -21,10 +21,12 @@ Ransomware auto descargador
 JESTER cuenta con un archivo que auto descarga todas las partes que necesita jester para ser totalmente invulnerable a cualquier antivirus conocido 
 Viene con un archivo auto descargador
 ![image](https://user-images.githubusercontent.com/91295669/134601890-37372bf3-5071-4553-965a-deb1cad3ceea.png)
-
+jester iniciara  despues de que se hallan descargado los archivos el auto descargador pesa alrededor de 12 KB 
  
 Jester cuenta con auto kill de procesos cuando alguien intente abrir cmd se cerrará automáticamente 
-Aparte de que no se podrá usar el administrador de tarea para cerrar jester![image](https://user-images.githubusercontent.com/91295669/134602389-d1005d8d-ba3b-461b-8bf7-af4e44654468.png)
+Aparte de que no se podrá usar el administrador de tarea para cerrar jester
+![image](https://user-images.githubusercontent.com/91295669/134602445-8e069a7f-0372-4642-a91a-8cd1642e4355.png)
+
 
 
 
