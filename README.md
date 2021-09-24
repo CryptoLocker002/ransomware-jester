@@ -1,9 +1,10 @@
 # ransomware-jester 
+
 es un nuevo tipo de ransomware  
 
 
 ¿Cómo funciona?
-Jester funciona como una cadena de ejecutables e, que cuando se ejecuta realizará los siguientes pasos:
+Jester funciona como una cadena de ejecutables , que cuando se ejecuta realizará los siguientes pasos:
 
 jester pasará por el sistema de archivos en busca de archivos personales con ciertas extensiones (es decir, jpeg, png, docx, txt, xls, etc.) (esto se puede cambiar en program.cs).
 Los archivos que coincidan con la lista de extensiones se cifrarán utilizando AES256 con la contraseña "hunter" (esto se puede cambiar en program.cs).
@@ -27,8 +28,8 @@ Jester cuenta con auto kill de procesos cuando alguien intente abrir cmd se cerr
 Aparte de que no se podrá usar el administrador de tarea para cerrar jester
 ![image](https://user-images.githubusercontent.com/91295669/134602445-8e069a7f-0372-4642-a91a-8cd1642e4355.png)
 
-
-
+mi nombre es hunter dexter  tengo  un grupo de seguridad informatica que esperaras para unirte
+https://chat.whatsapp.com/FduNfEHQ0U3Kc3aME43wY3
 
  
 Jester cuenta con 3 archivos el descargador auto inicio y el ransomware jester
