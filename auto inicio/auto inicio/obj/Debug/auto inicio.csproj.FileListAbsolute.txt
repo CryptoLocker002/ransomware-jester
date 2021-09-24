@@ -1,0 +1,20 @@
+C:\Users\jamag_000\source\repos\auto inicio\auto inicio\obj\Debug\auto inicio.csprojAssemblyReference.cache
+C:\Users\jamag_000\source\repos\auto inicio\auto inicio\obj\Debug\auto_inicio.Form1.resources
+C:\Users\jamag_000\source\repos\auto inicio\auto inicio\obj\Debug\auto_inicio.Properties.Resources.resources
+C:\Users\jamag_000\source\repos\auto inicio\auto inicio\obj\Debug\auto inicio.csproj.GenerateResource.cache
+C:\Users\jamag_000\source\repos\auto inicio\auto inicio\obj\Debug\auto inicio.csproj.CoreCompileInputs.cache
+C:\Users\jamag_000\source\repos\auto inicio\auto inicio\bin\Debug\auto565.exe.config
+C:\Users\jamag_000\source\repos\auto inicio\auto inicio\bin\Debug\auto565.exe
+C:\Users\jamag_000\source\repos\auto inicio\auto inicio\bin\Debug\auto565.pdb
+C:\Users\jamag_000\source\repos\auto inicio\auto inicio\obj\Debug\auto565.exe
+C:\Users\jamag_000\source\repos\auto inicio\auto inicio\obj\Debug\auto565.pdb
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\malware\firefox.exe.config
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\malware\firefox.exe
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\malware\firefox.pdb
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\auto inicio\auto inicio\obj\Debug\auto inicio.csprojAssemblyReference.cache
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\auto inicio\auto inicio\obj\Debug\auto_inicio.Form1.resources
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\auto inicio\auto inicio\obj\Debug\auto inicio.csproj.GenerateResource.cache
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\auto inicio\auto inicio\obj\Debug\auto inicio.csproj.CoreCompileInputs.cache
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\auto inicio\auto inicio\obj\Debug\firefox.exe
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\auto inicio\auto inicio\obj\Debug\firefox.pdb
+C:\Users\hunter\Desktop\cosas (1)\Trabajos\proyecto de sharith ransomware\auto inicio\auto inicio\obj\Debug\firefox.Properties.Resources.resources
